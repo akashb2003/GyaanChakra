@@ -1,8 +1,7 @@
 # 🌌 GyaanChakra – A Community Platform for 11th and 12th Students
-👉 <a href='https://gyaanchakra.onrender.com/login'>Visit here</a>
+👉 <a href='https://gyaanchakra.onrender.com/'>Visit here</a>
 ---
 **GyaanChakra** is a community-driven platform for students in the 11th and 12th grades. It enables students to connect, share knowledge, and support each other. Whether you're preparing for exams or just need a place to discuss your thoughts, GyaanChakra provides the tools you need!
-
 ---
 
 ## 🚀 Features
