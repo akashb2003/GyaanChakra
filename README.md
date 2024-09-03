@@ -3,7 +3,14 @@
 ---
 **GyaanChakra** is a community-driven platform for students in the 11th and 12th grades. It enables students to connect, share knowledge, and support each other. Whether you're preparing for exams or just need a place to discuss your thoughts, GyaanChakra provides the tools you need!
 ---
+## Signup Page
+<img src="https://github.com/akashb2003/GyaanChakra/blob/main/signup.jpg?raw=true" alt="signup"/>
 
+## Home Page
+<img src="https://github.com/akashb2003/GyaanChakra/blob/main/home.jpg?raw=true" alt="home"/>
+
+## Profile page
+<img src="https://github.com/akashb2003/GyaanChakra/blob/main/profile.jpg?raw=true" alt="profile"/>
 ## 🚀 Features
 
 - 🔐 **Authentication:** Sign up, log in, and log out seamlessly
