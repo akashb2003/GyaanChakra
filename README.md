@@ -48,9 +48,7 @@ As **Elon Musk** is my inspiration, the UI is heavily influenced by **'X' (forme
 ---
 
 ## 🧑‍💻 Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request. If you'd like to contribute in any form, check out our [Contributing Guidelines](./CONTRIBUTING.md).
-
+- Contributions are welcome! Feel free to open an issue or submit a pull request. 
 ---
 
 ## 📬 Contact
