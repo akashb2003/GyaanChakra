@@ -47,6 +47,17 @@ As **Elon Musk** is my inspiration, the UI is heavily influenced by **'X' (forme
 
 ---
 
+## Class diagram
+<img src="https://github.com/akashb2003/GyaanChakra/blob/main/gyan%20chakra%20flow%20chart%202.png?raw=true" alt="Class diagram"/>
+
+## Entity Relationship model
+<img src="https://github.com/akashb2003/GyaanChakra/blob/main/gyan%20chakra%20entity.png?raw=true" alt="relation"/>
+
+## Sequence diagram
+<img src="https://github.com/akashb2003/GyaanChakra/blob/main/gyan%20chakra%20seqence.png?raw=true" alt="sequence "/>
+
+---
+
 ## 🧑‍💻 Contributing
 - Contributions are welcome! Feel free to open an issue or submit a pull request. 
 ---
